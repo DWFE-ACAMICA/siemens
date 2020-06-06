@@ -1,5 +1,5 @@
 div.innovacion {
-    display: grid;
+    display: flex;
     grid-template-columns: 1fr;
     img {
         width: 80%;
@@ -15,8 +15,7 @@ div.innovacion {
     h2:hover {
         font-weight: bold;
     }
-    p{
+    p {
         text-align: justify;
     }
 }
-
