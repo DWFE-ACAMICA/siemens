@@ -394,7 +394,7 @@ div.innovacion p {
   }
 }
 
-/* Mq Innovación */
+/* Mq Innovación 
 @media only screen and (min-width: 480px) {
   div.innovacion {
     -ms-grid-columns: (1fr)[2];
@@ -416,6 +416,7 @@ div.innovacion p {
     text-align: justify;
   }
 }
+*/
 
 /*Nuevos productos*/
 @media only screen and (max-width: 480px) {
